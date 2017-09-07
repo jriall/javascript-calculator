@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Digital Counter 7';
+  src: url('digital_counter_7.ttf');
+}
+
+body {
+  background-image: url("http://res.cloudinary.com/jamesriall/image/upload/v1467369463/imageedit_3_3478290371_nf0iyk.jpg");
+  background-size: cover;
+}
+
+.calculator {
+  height: 570px;
+  width: 400px;
+  background-color: dimgray;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: 80px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  box-shadow: inset 0 0 30px #000000;
+}
+
+.buttons {
+  height: 400px;
+  width: 350px;
+  margin: 25px
+}
+
+button {
+  width: 80px;
+  height: 80px;
+  margin: 2px;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+#equals {
+  width: 168px;
+}
+
+#display {
+  margin: 0 auto;
+  text-align: left;
+  height: 50px;
+  width: 335px;
+  padding-bottom: 10px;
+  background-color: whitesmoke;
+  font-size: 30px;
+  text-align: right;
+  font-family: 'Digital Counter 7';
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+  padding-top: 10px;
+  color: white;
+  font-family: Lobster, Impact, Charcoal
+}
