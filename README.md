@@ -1,8 +1,14 @@
-# The Project
+# Javascript Calculator
+
+http://jamesriall.co.uk/javascript-calculator/
+
+## The Project
 
 A recreation of a desktop calculator built with HTML, CSS, JavaScript and jQuery. Users can do simple addition, subtraction, multiplication and division, they can clear the display, chain commands, use a modulo operator and also a plus/minus button.
 
-# The Logic
+![ScreenShot](http://res.cloudinary.com/jamesriall/image/upload/v1469028829/calculator_cropped_pffrgd.png)
+
+## The Logic
 
 The logic of the calculator uses two variables to keep track of the input values - display for the most recently inputted value and total which tracks the running total.
 
